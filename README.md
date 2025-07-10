@@ -10,6 +10,7 @@
 
 
 # Installations
+
 fastapi==0.104.1
 uvicorn==0.24.0
 pydantic==2.5.0
@@ -25,7 +26,6 @@ prophet
 neuralprophet
 statsmodels
 plotly
-
 # SETUP Instructions
 git clone https://github.com/anan-123
 cd GenAI-Hackathon-by-AWS
