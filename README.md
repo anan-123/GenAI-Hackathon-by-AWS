@@ -53,7 +53,7 @@ python main.py
 
 agents.py — Used for creating and storing agents in SQL tables. Designed as a scalable, extensible solution.  
 main.py — Uncomment models in the timeseries function to enable additional forecasting models.  
-
+The code for models works primarily on the provided dataset in the data folder. The data analyzer works on lot more datasets and the llm based models work well than traditional datasets for different datasets.
 
 ## Dependencies
 
