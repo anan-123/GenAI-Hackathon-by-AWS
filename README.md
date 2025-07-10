@@ -40,6 +40,15 @@ npm run dev
 cd Backend  
 python main.py  
 
+## Technology Stack
+
+- **Backend:** FastAPI (Python)
+- **Frontend:** React + Tailwind
+- **AI Models:** Claude 3, ARIMA, Prophet
+- **Integration:** AWS Bedrock + LangChain
+- **Forecasting:** Darts, Sklearn
+- **Dataset Input:** CSV, S3 URL
+
 ## Additional Capabilities: 
 
 agents.py — Used for creating and storing agents in SQL tables. Designed as a scalable, extensible solution.  
