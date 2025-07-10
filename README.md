@@ -28,17 +28,17 @@
 - plotly
 
 # SETUP Instructions
-git clone https://github.com/anan-123
-cd GenAI-Hackathon-by-AWS
+git clone https://github.com/anan-123  
+cd GenAI-Hackathon-by-AWS  
 
 ## Frontend
-cd Frontend
-npm install 
-npm run dev
+cd Frontend  
+npm install   
+npm run dev  
 
 ## Backend
-cd Backend
-python main.py
+cd Backend  
+python main.py  
 
 ## Additional Capabilities: 
 
