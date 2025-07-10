@@ -11,21 +11,22 @@
 
 # Installations
 
-fastapi==0.104.1
-uvicorn==0.24.0
-pydantic==2.5.0
-boto3==1.34.0
-pandas==2.1.4
-numpy==1.24.3
-scikit-learn==1.3.2
-prophet==1.1.4
-openai==1.3.7
-python-multipart==0.0.6
-python-dotenv==1.0.0
-prophet
-neuralprophet
-statsmodels
-plotly
+- fastapi==0.104.1
+- uvicorn==0.24.0
+- pydantic==2.5.0
+- boto3==1.34.0
+- pandas==2.1.4
+- numpy==1.24.3
+- scikit-learn==1.3.2
+- prophet==1.1.4
+- openai==1.3.7
+- python-multipart==0.0.6
+- python-dotenv==1.0.0
+- prophet
+- neuralprophet
+- statsmodels
+- plotly
+
 # SETUP Instructions
 git clone https://github.com/anan-123
 cd GenAI-Hackathon-by-AWS
@@ -40,8 +41,9 @@ cd Backend
 python main.py
 
 ## Additional Capabilities: 
-agents.py — Used for creating and storing agents in SQL tables. Designed as a scalable, extensible solution.
-main.py — Uncomment models in the timeseries function to enable additional forecasting models.
+
+agents.py — Used for creating and storing agents in SQL tables. Designed as a scalable, extensible solution.  
+main.py — Uncomment models in the timeseries function to enable additional forecasting models.  
 
 
 ## Dependencies
