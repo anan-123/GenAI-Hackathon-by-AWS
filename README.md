@@ -4,6 +4,9 @@
 ## Demo Video
 https://youtu.be/I3PRUQcD8Rw?si=CGiKMXhQ2AwhFKBi
 
+## Hosted Website
+http://34.226.152.181/
+
 ## Key Features
 
 - **Universal Data Analyzer**: Ingests and processes structured and unstructured data across ERP, WMS, IoT, and external sources.
