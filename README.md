@@ -1,6 +1,9 @@
 # GenAI-Hackathon-by-AWS
 **Supply Chain OS** is an end-to-end AI-powered platform for optimizing supply chain operations using Temporal LLMs, Generative AI, and time-series forecasting. It enables smarter decision-making, proactive risk management, and autonomous agent-based execution for complex supply chain workflows.
 
+## Demo Video
+https://youtu.be/I3PRUQcD8Rw?si=CGiKMXhQ2AwhFKBi
+
 ## Key Features
 
 - **Universal Data Analyzer**: Ingests and processes structured and unstructured data across ERP, WMS, IoT, and external sources.
